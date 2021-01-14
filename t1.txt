@@ -4,6 +4,10 @@ this is my first text file
 hi again this is me 
 akshay
 
+hello 
+hii 
+ 
+there is more write
 
 
 
